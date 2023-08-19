@@ -15,7 +15,7 @@ function Paragraph:New(Config)
 	Paragrah.Frame.BackgroundTransparency = 0.92
 	Paragrah.Border.Transparency = 0.6
 
-	return Paragraph
+	return Paragrah
 end
 
 return Paragraph
